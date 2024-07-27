@@ -99,7 +99,7 @@
 
 % Title, author, and date
 \title{\huge{\textsc{RedMath}: 我的高中数学教学笔记}}
-\author{\Large{LeyuDame}}
+\author{}
 \date{\Large{\today}}
 
 \endinput
