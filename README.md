@@ -1,11 +1,12 @@
-# You Know What Time It Is
+# YZDame's Space🚀
 
 <img src="https://pauline.oss-cn-shenzhen.aliyuncs.com/img/202407271713936.webp" alt="_The_School_of_Athens__by_Raffaello_Sanzio_da_Urbino" style="zoom: 25%;" />
 
-Hi! 我是YZDame. 这个暑假主要在备课, 包括[课内教学](https://github.com/yzdame/redmath)和[竞赛](https://github.com/yzdame/bluemath).这是[本项目地址](https://github.com/yzdame/docs).
+Hi! 我是YZDame. 这是一个我的个人空间（[项目地址](https://github.com/yzdame/docs)）. 
 
 ---
 
+2024-7-17
 ## 2024暑假计划🎯
 
 ### 学习方面
