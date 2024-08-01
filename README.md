@@ -5,7 +5,7 @@ Hi! 我是YZDame. 这是我的个人主页（[项目地址](https://github.com/y
 ## 2024秋
 目前我正在编写自己此学期的[$\LaTeX$教案](https://github.com/yzdame/redmath)，内容主要是高中数学人教A版必修一的内容. 
 
-教学进度
+[教学进度](/计划/教学班.md)
 
 ## 竞赛班
 - 初三创美营
